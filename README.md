@@ -67,3 +67,7 @@ If your workflow needs custom diagnostics, media tooling, clinic software, inter
 
 guitar practice app, desktop guitar effects, guitar looper, practice rig, offline guitar software, DAW alternative practice
 ```
+
+## Download packages
+
+- [practice-rack-0.1.4-windows-x64-setup.exe](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.4/practice-rack-0.1.4-windows-x64-setup.exe)
