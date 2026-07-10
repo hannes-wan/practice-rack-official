@@ -51,43 +51,43 @@ Sixteen studio-grade effects — noise gate, compressor, boost, pitch shift, ove
 
 ### Motorized console fader
 
-![Motorized console fader](https://hannes-software.com/assets/practice-rack/screenshots/fader-boost-ac1a496313.webp)
+![Motorized console fader](https://hannes-software.com/assets/practice-rack/screenshots/fader-boost-7ee3e11130.webp)
 
 A long-throw fader with a unity notch and post-fader LED meter — a clean push into the next stage.
 
 ### Neural amp capture
 
-![Neural amp capture](https://hannes-software.com/assets/practice-rack/screenshots/neural-amp-9e4e381d54.webp)
+![Neural amp capture](https://hannes-software.com/assets/practice-rack/screenshots/neural-amp-fafb6d2b9b.webp)
 
 Captured amp heads with their gain staging intact. Pick a model, set gain, go.
 
 ### Real cabinets, in a file
 
-![Real cabinets, in a file](https://hannes-software.com/assets/practice-rack/screenshots/cabinet-ir-7a228f7b00.webp)
+![Real cabinets, in a file](https://hannes-software.com/assets/practice-rack/screenshots/cabinet-ir-e48d34a1c2.webp)
 
 Convolves your tone with real cabinet impulse responses — the difference between a line signal and a mic'd rig.
 
 ### Air and sparkle on top
 
-![Air and sparkle on top](https://hannes-software.com/assets/practice-rack/screenshots/exciter-28261cd436.webp)
+![Air and sparkle on top](https://hannes-software.com/assets/practice-rack/screenshots/exciter-3aa7ea4da0.webp)
 
 Harmonic shimmer above the fundamental so single notes cut without adding volume.
 
 ### Live rack overview
 
-![Live rack overview](https://hannes-software.com/assets/practice-rack/screenshots/workbench-overview-761b310e71.webp)
+![Live rack overview](https://hannes-software.com/assets/practice-rack/screenshots/workbench-overview-37f41352fc.webp)
 
 Input monitoring, rack state, meters, tuner, and looper controls.
 
 ### Signal chain session
 
-![Signal chain session](https://hannes-software.com/assets/practice-rack/screenshots/signal-chain-session-4aed57c342.webp)
+![Signal chain session](https://hannes-software.com/assets/practice-rack/screenshots/signal-chain-session-58a1ed08f0.webp)
 
 Overdrive, delay, chorus, cabinet IR, looper, and synced tempo.
 
 ### Looper and recorder
 
-![Looper and recorder](https://hannes-software.com/assets/practice-rack/screenshots/looper-recorder-ec9ac28ad4.webp)
+![Looper and recorder](https://hannes-software.com/assets/practice-rack/screenshots/looper-recorder-803dcc4430.webp)
 
 Loop capture and recorder controls after committing a live practice take.
 
