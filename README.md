@@ -3,11 +3,13 @@
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/practice-rack/download/)
 [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/practice-rack/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/practice-rack/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/practice-rack/)
 
-> A complete local guitar-practice signal chain, from input to cabinet to take review.
+> Build an inspectable low-latency guitar signal chain, then tune, loop, record, and review the take in one desktop rack.
+
+Free Community Edition guitar effects software with a local signal chain, tuner, looper, recorder and reusable presets.
 
 Practice Rack combines real-time audio input, deterministic drive and effects DSP, cabinet impulse-response convolution, modulation and time effects, a tuner, a looper, and WAV take recording in one desktop rack.
 
-**Practice Rack Community Edition is free to download and use.** The full 16-effect rack, amp-voiced drive, cabinet IR convolution, looper, recorder, tuner, and three preset slots are available without a trial timer.
+**Practice Rack Community Edition is free to download and use.** Core desktop practice rack with no trial timer.
 
 [Download Community Edition](https://hannes-software.com/practice-rack/download/) · [Product guide](https://hannes-software.com/practice-rack/) · [Help](https://hannes-software.com/practice-rack/help/) · [Report a bug](https://github.com/hannes-wan/practice-rack-official/issues/new?template=bug_report.yml)
 
@@ -63,10 +65,10 @@ Tune, loop, overdub, and record WAV takes from the same rack used for daily inpu
 
 ## Community Edition is genuinely useful
 
-- All 16 effects, unlocked
-- Amp-voiced drive and cabinet IR
+- Core effects-chain workflow
 - Looper, recorder, and tuner
-- 3 saved preset slots
+- Preset system
+- Local input monitoring
 
 Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
@@ -113,6 +115,8 @@ Practice Rack is a desktop workflow. Your working files stay on the machine unle
 - [Practice Rack Quickstart](https://hannes-software.com/practice-rack/help/quickstart/)
 
 ## Frequently asked questions
+
+> **Community scope:** Community Edition includes the core effects-chain workflow, tuner, looper, recorder, and presets; cabinet IR, advanced effects, synchronized playback, and offline updates are optional licensed capabilities.
 
 <details>
 <summary><strong>Is Practice Rack a DAW or full amp simulator?</strong></summary>

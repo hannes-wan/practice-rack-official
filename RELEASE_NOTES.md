@@ -7,9 +7,9 @@
 - Low-latency local input monitoring connects the operating-system audio interface while retaining input/output device, buffer, and meter state.
 - A reorderable, bypassable 16-block chain covers gating, dynamics, boost, pitch, drive, excitation, eight-band EQ, cabinet IR, modulation, delay, and reverb.
 - Amp-voiced and pedal-style blocks share an oversampled DriveProcessor while selecting different waveshapers, bias, tone-stack, and inter-stage filtering; loudness-parity tests keep circuit changes audible without uncontrolled level jumps.
-- The cabinet block supports convolution with a built-in cabinet response or a user-loaded WAV impulse response.
+- The optional cabinet workflow supports convolution with a built-in cabinet response or a user-loaded WAV impulse response.
 - The looper supports record and overdub, the recorder writes WAV takes, and the FFT chromatic tuner reports note, cents, and frequency.
-- Community Edition includes all 16 effects, looper, recorder, tuner, and three preset slots; optional licensing expands preset capacity.
+- Community Edition includes the core effects-chain workflow, tuner, looper, recorder, and presets; cabinet IR, advanced effects, synchronized playback, and offline updates are optional licensed capabilities.
 
 ## Choose the right package
 
