@@ -5,11 +5,11 @@
 
 > Build an inspectable low-latency guitar signal chain, then tune, loop, record, and review the take in one desktop rack.
 
-Free Community Edition guitar effects software with a local signal chain, tuner, looper, recorder and reusable presets.
+Free Community Edition standalone amp sim and guitar effects rack with a local signal chain, cabinet IR, tuner, looper, recorder, and reusable presets.
 
 Practice Rack combines real-time audio input, deterministic drive and effects DSP, cabinet impulse-response convolution, modulation and time effects, a tuner, a looper, and WAV take recording in one desktop rack.
 
-**Practice Rack Community Edition is free to download and use.** Core desktop practice rack with no trial timer.
+**Practice Rack Community Edition is free to download and use.** The complete audible desktop rack, free with no trial timer. Save up to three user presets.
 
 [Download Community Edition](https://hannes-software.com/practice-rack/download/) · [Product guide](https://hannes-software.com/practice-rack/) · [Help](https://hannes-software.com/practice-rack/help/) · [Report a bug](https://github.com/hannes-wan/practice-rack-official/issues/new?template=bug_report.yml)
 
@@ -65,10 +65,10 @@ Tune, loop, overdub, and record WAV takes from the same rack used for daily inpu
 
 ## Community Edition is genuinely useful
 
-- Core effects-chain workflow
+- All 16 effects, including Cabinet IR and custom WAV IR loading
 - Looper, recorder, and tuner
-- Preset system
-- Local input monitoring
+- Manual and tap tempo
+- 3 saved user preset slots
 
 Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
@@ -116,7 +116,7 @@ Practice Rack is a desktop workflow. Your working files stay on the machine unle
 
 ## Frequently asked questions
 
-> **Community scope:** Community Edition includes the core effects-chain workflow, tuner, looper, recorder, and presets; cabinet IR, advanced effects, synchronized playback, and offline updates are optional licensed capabilities.
+> **Community scope:** Community Edition includes the complete 16-effect chain, cabinet IR, tuner, looper, recorder, and three saved preset slots; optional licensing removes the preset cap and covers the registered playback-position sync backend command, which the current UI does not invoke.
 
 <details>
 <summary><strong>Is Practice Rack a DAW or full amp simulator?</strong></summary>
