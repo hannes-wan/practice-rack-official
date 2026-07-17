@@ -13,16 +13,22 @@ Practice Rack combines real-time audio input, deterministic drive and effects DS
 
 [Download Community Edition](https://hannes-software.com/practice-rack/download/) · [Product guide](https://hannes-software.com/practice-rack/) · [Help](https://hannes-software.com/practice-rack/help/) · [Report a bug](https://github.com/hannes-wan/practice-rack-official/issues/new?template=bug_report.yml)
 
-## Download Practice Rack 0.1.6
+## Download Practice Rack 0.1.7
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [practice-rack-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.6/practice-rack-0.1.6-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [practice-rack-0.1.6-linux-x64.deb](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.6/practice-rack-0.1.6-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [practice-rack-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.6/practice-rack-0.1.6-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [practice-rack-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.6/practice-rack-0.1.6-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [practice-rack-0.1.7-linux-x64.AppImage](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [practice-rack-0.1.7-linux-x64.deb](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [practice-rack-0.1.7-linux-x64.rpm](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [practice-rack-0.1.7-windows-x64-setup.exe](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/practice-rack/download/).
+
+## System requirements
+
+- **Windows:** Windows 10 or Windows 11 on x64.
+- **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why Practice Rack exists
 
