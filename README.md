@@ -82,31 +82,31 @@ Optional licensed workflows are available for people who need the expanded featu
 
 ### Cabinet IR convolution
 
-![Cabinet IR convolution — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/cabinet-ir-b5ca944a18.webp)
+![Cabinet IR convolution — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/cabinet-ir-55c1a646f2.webp)
 
 Use a built-in cabinet response or load a WAV impulse response into the monitored chain.
 
 ### Air and sparkle on top
 
-![Air and sparkle on top — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/exciter-cd42695302.webp)
+![Air and sparkle on top — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/exciter-ed421340c5.webp)
 
 Harmonic shimmer above the fundamental so single notes cut without adding volume.
 
 ### Live rack overview
 
-![Live rack overview — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/workbench-overview-7c9fadbf1e.webp)
+![Live rack overview — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/workbench-overview-844daba3fa.webp)
 
 Input monitoring, rack state, meters, tuner, and looper controls.
 
 ### Signal chain session
 
-![Signal chain session — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/signal-chain-session-5d4f193f6a.webp)
+![Signal chain session — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/signal-chain-session-dd3a34b7b0.webp)
 
 Overdrive, delay, chorus, cabinet IR, looper, and synced tempo.
 
 ### Looper and recorder
 
-![Looper and recorder — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/looper-recorder-60ce3d38e9.webp)
+![Looper and recorder — Practice Rack](https://hannes-software.com/assets/practice-rack/screenshots/looper-recorder-6df408b899.webp)
 
 Loop capture and recorder controls after committing a live practice take.
 
