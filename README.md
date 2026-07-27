@@ -13,14 +13,14 @@ Practice Rack combines real-time audio input, deterministic drive and effects DS
 
 [Download Community Edition](https://hannes-software.com/practice-rack/download/) · [Product guide](https://hannes-software.com/practice-rack/) · [Help](https://hannes-software.com/practice-rack/help/) · [Report a bug](https://github.com/hannes-wan/practice-rack-official/issues/new?template=bug_report.yml)
 
-## Download Practice Rack 0.1.7
+## Download Practice Rack 0.1.10
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [practice-rack-0.1.7-linux-x64.AppImage](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [practice-rack-0.1.7-linux-x64.deb](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [practice-rack-0.1.7-linux-x64.rpm](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [practice-rack-0.1.7-windows-x64-setup.exe](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.7/practice-rack-0.1.7-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [practice-rack-0.1.10-linux-x64.AppImage](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.10/practice-rack-0.1.10-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [practice-rack-0.1.10-linux-x64.deb](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.10/practice-rack-0.1.10-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [practice-rack-0.1.10-linux-x64.rpm](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.10/practice-rack-0.1.10-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [practice-rack-0.1.10-windows-x64-setup.exe](https://github.com/hannes-wan/practice-rack-official/releases/download/v0.1.10/practice-rack-0.1.10-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/practice-rack/download/).
 
